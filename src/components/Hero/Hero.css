@@ -13,7 +13,7 @@
 .hero h1{
     text-align: center;
     width: 80%;
-    font-size: 2rem;
+    font-size: 5rem;
     font-weight: 700
 }
 
@@ -23,13 +23,13 @@
 }
 
 .hero p{
-    font-size: 2rem
+    font-size: 5rem
 }
 
 .hero-action{
     display: flex;
     gap: 15rem;
-    font-size: 2rem;
+    font-size: 3rem;
     color:white;
     font-weight:bold;
    

@@ -1,0 +1,61 @@
+.navbar{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin: 20px 204px gap
+   
+
+}
+
+img:hover{
+    transform: scale(1.09);
+    transition: 0.5s;
+
+
+}
+
+.nav-menu{
+    display: flex;
+    list-style: none;
+    gap: 4rem;
+    font-size: 3rem;
+}
+.about:hover{
+    transform: scale(1.2);
+    color:aqua
+}
+
+.home:hover{
+    transform: scale(1.2);
+    color:aqua
+}
+.service:hover{
+    transform: scale(1.2);
+    color:aqua
+}
+.portfolio:hover{
+    transform: scale(1.2);
+    color:aqua
+}
+.contact:hover{
+    transform: scale(1.2);
+    color:aqua
+}
+
+
+.nav-connect{
+    font-size: 3rem
+}
+
+.nav-connect{
+    background: linear-gradient(aqua,rgb(85, 116, 116));
+    padding: 1rem;
+    border-radius: 3rem;
+    font-size: 3rem;
+    cursor:pointer;
+    transition: 0.9s;
+
+}
+.nav-connect:hover{
+    transform: scale(1.09)
+}

@@ -1,0 +1,49 @@
+.About{
+    font-size: 4rem;
+}
+
+.about-title{
+    display: flex;
+    justify-content: center;
+    color: aqua;
+    margin: 4rem
+}
+
+.about-content{
+   justify-content: center;
+   display: flex;
+   margin: 1rem
+}
+.about-content hr{
+    background-color: aqua;
+    width: 2rem;
+    margin: 2rem;
+    height: 10rem
+}
+
+.about-section{
+    color:aqua;
+    display:flex;
+    flex-direction:column;
+    margin: 2rem
+    
+}
+
+
+
+.line{
+    display: flex;
+    gap: 4rem;
+    align-items: center;
+
+}
+
+.line hr{
+    outline:none;
+    border: none;
+    width:50%;
+    height: 9px;
+    background-color:aqua;
+    transition:cubic-bezier(0.075, 0.82, 0.165, 1)
+}
+
